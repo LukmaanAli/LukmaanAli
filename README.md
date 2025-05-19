@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @LukmaanAli.
+- 👀 I’m interested in AI/ML.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on beginner-friendly Python projects related to data analysis. 
+- 📫 How to reach me :- don't forget to mail me "lukmaanali313@gmail.com
+- ⚡ Fun fact: I like to play chess ♟️.
